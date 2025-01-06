@@ -44,6 +44,7 @@ This project aims to analyze and predict the quality of red wine based on its ph
 ---
 
 ## File Structure
+```
 wine-quality-analysis/
 ├── data/                   # Dataset files
 ├── notebooks/              # Jupyter notebooks for each stage
@@ -53,6 +54,7 @@ wine-quality-analysis/
 │   ├── 4_machine_learning.ipynb
 ├── README.md               # Project overview
 ├── requirements.txt        # Python dependencies
+```
 
 ## Requirements
 To set up the project environment, install the required dependencies:
